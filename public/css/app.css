@@ -18098,4 +18098,17 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.cards {
+  background: #334d5c;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.card-title {
+  font-size: 25px;
+}
 /*# sourceMappingURL=app.css.map */
